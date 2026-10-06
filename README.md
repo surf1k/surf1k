@@ -2,9 +2,12 @@
 
   <h1>Hi there, I'm ym1co 👋</h1>
 
-  <p>
-    <b>Full-Stack Developer • High-Performance Automation & Systems</b>
-  </p>
+  <!-- Dynamic Typing Animation -->
+  <a href="https://github.com/surf1k">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&background=0B132B00&center=true&vCenter=true&width=620&lines=High-Performance+Automation+%26+Bots;Python+%E2%80%A2+Lua+%2F+Luau+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Reverse+Engineering+%26+Protocol+Analysis;Building+Scalable+Multi-Instance+Systems" alt="Typing Animation" />
+  </a>
+
+  <br/><br/>
 
   <p>
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-0B132B?style=for-the-badge&logo=statuspage&logoColor=38BDF8" alt="Status" />
