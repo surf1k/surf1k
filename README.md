@@ -14,33 +14,33 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=surf1k&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-0B132B?style=for-the-badge&logo=statuspage&logoColor=38BDF8" alt="Status" />
-    <img src="https://img.shields.io/badge/ARCH%20LINUX-USER-0B132B?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" />
+    <img src="https://img.shields.io/badge/ARCH%20LINUX-POWER%20USER-0B132B?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" />
   </p>
 
 </div>
 
 ---
 
-### 🌌 Обо мне / About Me
+### 🌌 About Me
 
-- 🚀 Разрабатываю **высоконагруженные бот-фермы**, системы автоматизации и инструменты обратной разработки.
-- ⚙️ Специализируюсь на **мульти-инстанс архитектурах** (Win32 API, инжекция дескрипторов, оптимизация памяти 100+ процессов).
-- 🐧 Фанат минимализма, кастомных тайлинговых окружений и **Arch Linux (Wayland / Niri)**.
-- 🎯 Стремлюсь к максимальной производительности, чистому коду и автономности сервисов.
+- 🚀 Engineering **high-throughput automation systems**, bot farms, and reverse engineering toolkits.
+- ⚙️ Specializing in **multi-instance system architectures** (Win32 internals, handle cloning/closing, and RAM optimization across 100+ concurrent processes).
+- 🐧 Minimalist workspace enthusiast, tiling compositors, and **Arch Linux (Wayland / Niri)** power user.
+- 🎯 Dedicated to raw execution speed, clean architectures, and self-contained zero-dependency autonomy.
 
 ---
 
-### 💙 Любимый стек и языки (Favorite & Core Stack)
+### 💙 Favorite & Core Stack
 
 <div align="center">
 
-| Язык / Технология | Назначение | Уровень & Фокус |
+| Technology | Primary Domain | Focus & Application |
 | :--- | :--- | :--- |
-| **🐍 Python** *(Favorite)* | Бэкенд, асинхронные боты, парсинг, Win32 API, менеджеры ферм | `Core Backend / Automation` |
-| **🌙 Lua / Luau** *(Favorite)* | Игровые движки (Roblox), байткод, кастомные автономные скрипты | `Game Logic / Internal Exploits` |
-| **⚡ TypeScript / JS** | Telegram Mini Apps, веб-панели, интерактивные UI | `Web & Frontend` |
-| **🦀 Rust** | Системный софт, высокоскоростные утилиты, микросервисы | `Systems & Microservices` |
-| **☕ Java** | Клиентские моды, Fabric, сетевые протоколы | `Mods & Tooling` |
+| **🐍 Python** *(Favorite)* | Async bots, web scraping, Win32 API, farm managers | `Core Backend & Automation` |
+| **🌙 Lua / Luau** *(Favorite)* | Game engines (Roblox), bytecode analysis, autonomous logic | `Game Internals & Scripting` |
+| **⚡ TypeScript / JS** | Telegram Mini Apps, web dashboards, responsive UIs | `Web & Frontend` |
+| **🦀 Rust** | High-speed system utilities, microservices, low-latency tools | `Systems & Performance` |
+| **☕ Java** | Client-side modifications, Fabric mods, network protocols | `Mods & Protocol Tooling` |
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Статистика разработки (GitHub Analytics)
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
   <table border="0">
@@ -101,14 +101,14 @@
 
 ---
 
-### 🛠️ Что в фокусе (Current Focus)
+### 🛠️ Current Focus
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│  • Оптимизация Win32 API и управления 100+ процессами на Windows/Linux │
-│  • Анализ сетевых протоколов и арбитраж торговых площадок             │
-│  • Разработка легковесных утилит и автономных бот-ферм                 │
-│  • Кастомизация сред Wayland и системного софта на Rust                │
+│  • Low-level Win32 API optimization & scaling 100+ concurrent instances│
+│  • Network protocol reverse engineering & marketplace arbitrage bots   │
+│  • Developing lightweight autonomous tools & high-throughput pipelines│
+│  • Custom Wayland environments & high-performance system apps in Rust │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
