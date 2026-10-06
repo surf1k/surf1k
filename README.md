@@ -1,13 +1,8 @@
 <div align="center">
 
-  <!-- Animated Header GIF -->
-  <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/header.gif" alt="Hi there, I'm ym1co" />
-
-  <br/><br/>
-
-  <!-- Dynamic Typing Animation -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/surf1k">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=0B132B00&center=true&vCenter=true&width=620&lines=High-Performance+Automation+%26+Bots;Python+%E2%80%A2+Lua+%2F+Luau+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Reverse+Engineering+%26+Protocol+Analysis;Building+Scalable+Multi-Instance+Systems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&background=0B132B00&center=true&vCenter=true&width=650&lines=High-Performance+Automation+%26+Bots;Python+%E2%80%A2+Lua+%2F+Luau+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Reverse+Engineering+%26+Protocol+Analysis;Building+Scalable+Multi-Instance+Systems" alt="Typing Animation" />
   </a>
 
   <br/><br/>
