@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm ym1co 👋</h1>
+  <h1>Hi there, I'm ym1co <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/wave.gif" width="35px" alt="wave" /></h1>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://github.com/surf1k">
