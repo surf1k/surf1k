@@ -16,15 +16,6 @@
 
 ---
 
-### 🌌 About Me
-
-- 🚀 Engineering **high-throughput automation systems**, bot farms, and reverse engineering toolkits.
-- ⚙️ Specializing in **multi-instance architectures** (Win32 internals, handle cloning/closing, and RAM optimization across 100+ concurrent processes).
-- 🐧 Minimalist workspace enthusiast, tiling compositors, and **Arch Linux (Wayland / Niri)** power user.
-- 🎯 Dedicated to raw execution speed, clean architectures, and self-contained zero-dependency autonomy.
-
----
-
 ### 💙 Favorite & Core Stack
 
 <div align="center">
