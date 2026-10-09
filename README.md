@@ -19,8 +19,8 @@
 
 | Technology | Primary Domain | Focus & Application |
 | :--- | :--- | :--- |
-| **🐍 Python** *(Favorite)* | Async bots, web scraping, Win32 API, farm managers | `Core Backend & Automation` |
-| **🌙 Lua / Luau** *(Favorite)* | Game engines (Roblox), bytecode analysis, autonomous logic | `Game Internals & Scripting` |
+| **🐍 Python** | Async bots, web scraping, Win32 API, farm managers | `Core Backend & Automation` |
+| **🌙 Lua / Luau** | Game engines (Roblox), bytecode analysis, autonomous logic | `Game Internals & Scripting` |
 | **⚡ TypeScript / JS** | Telegram Mini Apps, web dashboards, responsive UIs | `Web & Frontend` |
 | **🦀 Rust** | High-speed system utilities, microservices, low-latency tools | `Systems & Performance` |
 | **☕ Java** | Client-side modifications, Fabric mods, network protocols | `Mods & Protocol Tooling` |
