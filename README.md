@@ -9,7 +9,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-0B132B?style=for-the-badge&logo=statuspage&logoColor=38BDF8" alt="Status" />
-    <img src="https://img.shields.io/badge/ARCH%20LINUX-POWER%20USER-0B132B?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" />
   </p>
 
 </div>
