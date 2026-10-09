@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h1>Hi, I'm ym1co 👋</h1>
-
   <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/greeting.gif" width="498" alt="greeting" />
 
 </div>
@@ -50,8 +48,8 @@
 <br/>
 
 <div align="center">
-  <!-- Music Player Banner -->
-  <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/music_banner.gif" alt="unrealgrave - not a game" />
+  <!-- not a game lyrics typing banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=0B132B00&center=true&vCenter=true&width=750&lines=I%27m+not+manipulative%2C+I+swear%2C+I%27m+innocent+girl;I+wanna+run+away+with+you+in+my+car%2C+so+let%27s+go;I%27m+not+malicious%2C+I+just+wanna+give+you+kisses;Just+want+you+to+be+my+Mrs.%2C+that+you%27re+going+to+miss+this;I+swear%2C+I+think+I+hit+my+limit;And+no+one%27s+gonna+get+it" alt="unrealgrave - not a game" />
 
   <br/><br/>
 
