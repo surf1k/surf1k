@@ -51,10 +51,8 @@
   <img src="https://img.shields.io/badge/FastAPI-0B132B?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-0B132B?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-0B132B?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arch_Linux-0B132B?style=for-the-badge&logo=archlinux&logoColor=38BDF8" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Git-0B132B?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
   <img src="https://img.shields.io/badge/Neovim-0B132B?style=for-the-badge&logo=neovim&logoColor=38BDF8" alt="Neovim" />
-  <img src="https://img.shields.io/badge/VS_Code-0B132B?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
 </div>
 
 ---
