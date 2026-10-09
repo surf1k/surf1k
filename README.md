@@ -1,15 +1,8 @@
 <div align="center">
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/surf1k">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&background=0B132B00&center=true&vCenter=true&width=650&lines=High-Performance+Automation+%26+Bots;Python+%E2%80%A2+Lua+%2F+Luau+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Reverse+Engineering+%26+Protocol+Analysis;Building+Scalable+Multi-Instance+Systems" alt="Typing Animation" />
-  </a>
+  <h1>Hi, I'm ym1co 👋</h1>
 
-  <br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-0B132B?style=for-the-badge&logo=statuspage&logoColor=38BDF8" alt="Status" />
-  </p>
+  <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/greeting.gif" width="498" alt="greeting" />
 
 </div>
 
@@ -52,6 +45,19 @@
   <img src="https://img.shields.io/badge/Docker-0B132B?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-0B132B?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
   <img src="https://img.shields.io/badge/Neovim-0B132B?style=for-the-badge&logo=neovim&logoColor=38BDF8" alt="Neovim" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Music Player Banner -->
+  <img src="https://raw.githubusercontent.com/surf1k/surf1k/main/music_banner.gif" alt="unrealgrave - not a game" />
+
+  <br/><br/>
+
+  <p>
+    🎵 <a href="https://music.youtube.com/channel/UColbYXjFqAkXvXbBDSsPytw"><b>unrealgrave</b></a> • <a href="https://music.youtube.com/browse/MPREb_HHBRxKzMciz"><b>not a game</b></a> • <b>2026</b>
+  </p>
 </div>
 
 ---
