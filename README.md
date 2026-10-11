@@ -84,4 +84,11 @@
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/surf1k">
+    <img src="https://streak-stats.demolab.com/?user=surf1k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
