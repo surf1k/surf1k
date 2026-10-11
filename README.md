@@ -89,6 +89,6 @@
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/surf1k">
-    <img src="https://streak-stats.demolab.com/?user=surf1k&background=0a192f&border=1e3a8a&stroke=1e3a8a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=surf1k&background=0a192f&border=1e3a8a&stroke=1e3a8a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&timezone=Europe/Moscow" alt="GitHub Streak" />
   </a>
 </div>
